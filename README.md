@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eli Tavares
-- 👀 I’m interested in Data Analisys, Data Science, Database... and everything related with.. data
+- 👀 I’m interested in Data Analisys, Data Science, Database...
 - 🌱 I’m currently learning Python, SQL, R, and it's frameworks.
 
 - 💞️ I’m looking to collaborate on ...
